@@ -1,18 +1,16 @@
-body{
-    background-color: #04a6eb;
-    color:#FDFFFF;
-    width:500px;
-    margin-right:auto;
-    margin-left:auto;
+body {
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
 }
-
-button{
-    padding: 5px 20px;
-    background-color: #337AB7;
-    color: #FDFFFF;
-    border-style:none;
+button {
+  padding: 5px 20px;
+  background-color: #04a6eb;
+  color: #fdffff;
+  border-style: none;
 }
-
-input{
-    height:20px;
+input {
+  height: 20px;
 }
